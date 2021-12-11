@@ -1,0 +1,12 @@
+This hack is functional, however there is still much to be done. 
+Below are the completed functions which are fully operational in this iteration of code:
+- Name, email and address filtering.
+- Parallell iteration of PDFs, making the original resume available after an interview has been scheduled or HR has been notified
+- Automatic emailing of HR departments/overseers to confirm or prompt interviews
+- Ability to s
+DONTFORGETTHEEMAILINTEGRATIONSTEVEN!
+
+Future endeavours: 
+- Remote database hosting to enable actual use on a commercial and/or personal scale. This is a small jump given our progress, however we lack both the time and budget to configure a host.
+- Image redaction. Unfortunately, only text-based applications can currently be fully filtered, so this is a top-priority.
+- Full web-hosted GUIs. This would be excellent for ease of use, however our current GUI formatting is entirely sufficient.
