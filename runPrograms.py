@@ -14,7 +14,7 @@ while Continue:
     
     continueQuestion = input("Continue (Y/N), ")
 
-    if continueQuestion == "N":
+    if continueQuestion.lower() == "n":
         Continue = False
     else:
         Continue = True
